@@ -23,6 +23,7 @@ namespace harommal_oszthato_szamok
                     Console.WriteLine("A szám nem osztható hárommal. ");
                 }
             }
+            //komment commit miatt
             else
             {
                 Console.WriteLine("A szám nem felel meg az értékhatároknak.");
